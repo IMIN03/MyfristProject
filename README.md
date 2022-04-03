@@ -1,2 +1,2 @@
 # MyfristProject
-Just for text
+Just for texting
